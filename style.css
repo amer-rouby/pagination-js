@@ -1,0 +1,25 @@
+#container{
+    width: 90%;
+    margin: 50px auto;
+}
+
+#add-table{
+
+}
+
+.btn{
+    margin: 20px;
+    text-align: center;
+}
+
+button{
+    width: 80px;
+    height: 40px;
+    margin: 20px;
+}
+
+select{
+    width: 80px;
+    height: 40px;
+    margin: 10px;
+}
